@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Основатель",
+        "priority": 1,
+        "color": "#ff1744",
+        "class": "role-founder"
+    },
+    {
+        "name": "Тех.Администратор",
+        "priority": 2,
+        "color": "#ff1744",
+        "class": "role-tech-admin"
+    },
+    {
+        "name": "Со-Владелец",
+        "priority": 3,
+        "color": "#9e9e9e",
+        "class": "role-co-owner"
+    },
+    {
+        "name": "Управляющий",
+        "priority": 4,
+        "color": "#ff1744",
+        "class": "role-inspector"
+    },
+    {
+        "name": "Гл.Администратор",
+        "priority": 5,
+        "color": "#ff1744",
+        "class": "role-head-admin"
+    },
+    {
+        "name": "Зам.Гл.Администратор",
+        "priority": 6,
+        "color": "#9e9e9e",
+        "class": "role-deputy-head-admin"
+    },
+    {
+        "name": "Ст.Администратор",
+        "priority": 7,
+        "color": "#ff1744",
+        "class": "role-senior-admin"
+    },
+    {
+        "name": "Администратор",
+        "priority": 8,
+        "color": "#e91e63",
+        "class": "role-admin"
+    },
+    {
+        "name": "Мл.Администратор",
+        "priority": 9,
+        "color": "#2196f3",
+        "class": "role-junior-admin"
+    },
+    {
+        "name": "Гл.Куратор",
+        "priority": 10,
+        "color": "#ff9800",
+        "class": "role-head-curator"
+    },
+    {
+        "name": "Куратор КП",
+        "priority": 11,
+        "color": "#ff9800",
+        "class": "role-curator-kp"
+    },
+    {
+        "name": "Зам.Куратор КП",
+        "priority": 14,
+        "color": "#ff1744",
+        "class": "role-deputy-curator-kp"
+    },
+    {
+        "name": "Гл.Модератор",
+        "priority": 16,
+        "color": "#ff1744",
+        "class": "role-head-moderator"
+    },
+    {
+        "name": "Ст.Модератор",
+        "priority": 17,
+        "color": "#9c27b0",
+        "class": "role-senior-moderator"
+    },
+    {
+        "name": "Модератор",
+        "priority": 18,
+        "color": "#2196f3",
+        "class": "role-moderator"
+    },
+    {
+        "name": "Ст.Хелпер",
+        "priority": 19,
+        "color": "#2196f3",
+        "class": "role-senior-helper"
+    },
+    {
+        "name": "Хелпер",
+        "priority": 20,
+        "color": "#ffeb3b",
+        "class": "role-helper"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "nickname": "Owner_Main",
+        "role": "Основатель",
+        "discord": "owner#0001",
+        "status": "В работе",
+        "vacation": "Нет",
+        "warns": 0,
+        "verbalWarnings": 0
+    },
+    {
+        "nickname": "TechAdmin_Pro",
+        "role": "Тех.Администратор",
+        "discord": "techadmin#0002",
+        "status": "В работе",
+        "vacation": "Нет",
+        "warns": 0,
+        "verbalWarnings": 0
+    }
+]
